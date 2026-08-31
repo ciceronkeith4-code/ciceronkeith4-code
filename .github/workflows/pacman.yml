@@ -14,6 +14,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Generate Pac-Man graph
@@ -23,7 +24,12 @@ jobs:
           github_token: ${{ github.token }}
           games: pacman
 
-      - name: Push generated files
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          find dist -maxdepth 2 -type f -print
+
+      - name: Push Pac-Man graph
         uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
