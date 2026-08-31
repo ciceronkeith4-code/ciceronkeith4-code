@@ -19,7 +19,6 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>My core technologies and tools</p>
-  <!-- Powered by skillicons.dev for a perfectly uniform, clean grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,nodejs,git,github,vercel&perline=10" alt="Tech Stack" />
   </a>
@@ -38,10 +37,18 @@
 <br />
 
 <div align="center">
-  <h2>📈 GitHub Analytics</h2>
+  <h2>📈 GitHub Analytics & Activity</h2>
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <br /><br />
+  <!-- The Animated Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
