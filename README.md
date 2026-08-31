@@ -209,15 +209,13 @@ Web-based library portal featuring authentication, book-loan tracking, and libra
 
 ## Contribution Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code"
-  width="96%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code"
+    width="96%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <br/>
 
