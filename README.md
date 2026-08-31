@@ -38,7 +38,8 @@ Building modern web applications with thoughtful interfaces, reliable systems, a
 
 ## About
 
-I'm a software developer from the Philippines who enjoys building **complete digital products** — from the interface users interact with to the backend systems powering them.
+I'm a software developer from the Philippines who enjoys building
+**complete digital products** — from the interface users interact with to the backend systems powering them.
 
 My work focuses on creating applications that are:
 
@@ -220,19 +221,23 @@ My work focuses on creating applications that are:
 <div align="center">
 
 <a href="https://github.com/ciceronkeith4-code">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="Keith Ciceron's GitHub Stats"
-  />
+
+<img
+  src="./profile/stats.svg"
+  height="180"
+  alt="Keith Ciceron's GitHub Stats"
+/>
+
 </a>
 
 <a href="https://github.com/ciceronkeith4-code">
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Keith Ciceron's Top Languages"
-  />
+
+<img
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Keith Ciceron's Top Languages"
+/>
+
 </a>
 
 </div>
