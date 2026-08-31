@@ -1,202 +1,113 @@
-<!-- =========================
-     HERO
-========================= -->
+<div align="center">
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#0f172a">
+<td align="center" bgcolor="#111827">
 
-<br/>
+<br><br>
 
 <img
   src="https://keithciceron.vercel.app/logo-kc.png"
-  width="82"
+  width="72"
   alt="Keith Ciceron"
 />
 
-# <font color="#ffffff">Keith Ciceron</font>
-
-<font color="#94a3b8">
+# Keith Ciceron
 
 ### Software Developer
 
-</font>
+Full-Stack Development · System Design · UI/UX
 
-<font color="#cbd5e1">
-
-**Full-Stack Development · System Design · UI/UX**
-
-Building modern web applications with thoughtful interfaces,
+Building modern web applications with clean interfaces,
 reliable systems, and practical user experiences.
 
-</font>
-
-<br/><br/>
+<br>
 
 <a href="https://keithciceron.vercel.app">
-<img
-  src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"
-  alt="Portfolio"
-/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/keith-ciceron">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
+  <img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="mailto:ciceronkeith4@gmail.com">
-<img
-  src="https://img.shields.io/badge/EMAIL-334155?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
+  <img src="https://img.shields.io/badge/EMAIL-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/><br/>
+<br><br>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- =========================
-     QUICK STACK
-========================= -->
-
-<div align="center">
+<br>
 
 `React` · `Next.js` · `TypeScript` · `Node.js` · `PHP` · `Java` · `MySQL` · `Supabase`
 
 </div>
 
-<br/>
-
-<!-- =========================
-     ABOUT
-========================= -->
-
-<table width="100%">
-<tr>
-<td bgcolor="#f8fafc">
+---
 
 ## About
 
-I'm a software developer from the Philippines who enjoys building
-**complete digital products** — from the interface users interact with
-to the backend systems powering them.
+I'm a software developer from the Philippines focused on building
+**complete digital products** — from responsive interfaces and UI/UX
+to backend systems, APIs, databases, and deployment.
 
-I focus on creating applications that are:
+I enjoy turning ideas into applications that are:
 
 **Clean** · **Functional** · **Scalable** · **Easy to use**
 
-<br/>
+<br>
 
-### What I Do
+| Frontend | Backend | Database | UI/UX |
+|:---:|:---:|:---:|:---:|
+| Responsive Interfaces | APIs & Business Logic | Data Modeling | Wireframes |
+| Component Systems | Authentication | MySQL / Supabase | Prototypes |
+| Modern Web Apps | System Architecture | Application Data | User Experience |
 
-| Area | Focus |
-|---|---|
-| **Frontend** | Modern, responsive interfaces and component systems |
-| **Backend** | APIs, authentication, business logic, and architecture |
-| **Database** | Relational data modeling and application data systems |
-| **UI/UX** | Wireframes, prototypes, and user-centered interfaces |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- =========================
-     TECHNOLOGY
-========================= -->
+---
 
 ## Technology
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" bgcolor="#f8fafc">
+<div align="center">
 
 ### Frontend
 
-<br/>
-
 <img
   src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,tailwind,html,css"
-  alt="Frontend technologies"
+  alt="Frontend"
 />
 
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center" bgcolor="#f8fafc">
+<br><br>
 
 ### Backend & Database
 
-<br/>
-
 <img
   src="https://skillicons.dev/icons?i=nodejs,php,java,mysql,supabase"
-  alt="Backend and database technologies"
+  alt="Backend and Database"
 />
 
-<br/><br/>
+<br><br>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center" bgcolor="#f8fafc">
-
-### Tools
-
-<br/>
+### Tools & Design
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vercel,vscode"
-  alt="Development tools"
+  src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,photoshop"
+  alt="Tools and Design"
 />
 
-<br/><br/>
+</div>
 
-</td>
+---
 
-<td width="50%" align="center" bgcolor="#f8fafc">
-
-### Design
-
-<br/>
-
-<img
-  src="https://skillicons.dev/icons?i=figma,photoshop"
-  alt="Design tools"
-/>
-
-<br/><br/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<!-- =========================
-     PROJECTS
-========================= -->
-
-# Selected Work
+## Selected Work
 
 <table width="100%">
 <tr>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png"
@@ -211,17 +122,15 @@ intern tools, and administrative monitoring.
 
 `React` `TypeScript` `Tailwind` `Node.js`
 
-<br/>
+<br>
 
 <a href="https://interns.nclexamplifiedreviewcenter.com">
-<strong>View Project →</strong>
+View Project →
 </a>
-
-<br/><br/>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/onecainta.png"
@@ -231,18 +140,16 @@ intern tools, and administrative monitoring.
 
 ### ONE CAINTA
 
-Unified municipal portal and public service application
-for Cainta, Rizal.
+Unified municipal portal and public service application for
+Cainta, Rizal.
 
 `PHP` `JavaScript` `MySQL` `PWA`
 
-<br/>
+<br>
 
 <a href="https://onecainta.com">
-<strong>View Project →</strong>
+View Project →
 </a>
-
-<br/><br/>
 
 </td>
 
@@ -250,7 +157,7 @@ for Cainta, Rizal.
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png"
@@ -265,17 +172,15 @@ leadership, and professional connection.
 
 `React` `Vite` `Tailwind` `Supabase`
 
-<br/>
+<br>
 
 <a href="https://jpcs-sscrmnl.vercel.app/">
-<strong>View Project →</strong>
+View Project →
 </a>
-
-<br/><br/>
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/cicerra-1.png"
@@ -290,13 +195,11 @@ and client inquiries.
 
 `Next.js` `React` `TypeScript` `Tailwind`
 
-<br/>
+<br>
 
 <a href="https://cicerra-realty-services.vercel.app/">
-<strong>View Project →</strong>
+View Project →
 </a>
-
-<br/><br/>
 
 </td>
 
@@ -304,7 +207,7 @@ and client inquiries.
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/connect-dashboard.png"
@@ -319,15 +222,13 @@ forms, and visual dashboards.
 
 `React` `TypeScript` `Shadcn UI` `Supabase`
 
-<br/>
+<br>
 
 <sub>School Project</sub>
 
-<br/><br/>
-
 </td>
 
-<td width="50%" valign="top" bgcolor="#f8fafc">
+<td width="50%" valign="top">
 
 <img
   src="https://keithciceron.vercel.app/images/projects/library-login.png"
@@ -342,164 +243,105 @@ and librarian management.
 
 `Java` `PHP` `MySQL` `Node.js`
 
-<br/>
+<br>
 
 <sub>School Project</sub>
-
-<br/><br/>
 
 </td>
 
 </tr>
 </table>
 
-<br/>
+<br>
 
 <div align="center">
 
 <a href="https://keithciceron.vercel.app">
-<strong>Explore the full portfolio →</strong>
+<strong>View Full Portfolio →</strong>
 </a>
 
 </div>
 
-<br/>
+---
 
-<!-- =========================
-     GITHUB
-========================= -->
+## GitHub
 
-# GitHub
+<div align="center">
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#f8fafc">
 
-### GitHub Stats
+<td width="50%" align="center">
 
-<br/>
-
-<a href="https://github.com/ciceronkeith4-code">
 <img
   src="./profile/stats.svg"
-  height="180"
+  width="100%"
   alt="Keith Ciceron's GitHub Stats"
 />
-</a>
-
-<a href="https://github.com/ciceronkeith4-code">
-<img
-  src="./profile/top-langs.svg"
-  height="180"
-  alt="Keith Ciceron's Top Languages"
-/>
-</a>
-
-<br/><br/>
 
 </td>
+
+<td width="50%" align="center">
+
+<img
+  src="./profile/top-langs.svg"
+  width="100%"
+  alt="Keith Ciceron's Top Languages"
+/>
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+<br>
 
-<!-- =========================
-     PAC-MAN
-========================= -->
+<a href="https://github.com/ciceronkeith4-code">
+View GitHub Profile →
+</a>
 
-# Contribution Activity
+</div>
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0f172a">
+---
 
-<br/>
+## Contribution Activity
 
-<font color="#cbd5e1">
-
-**A visual record of my GitHub contributions**
-
-</font>
-
-<br/><br/>
+<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/ciceronkeith4-code/ciceronkeith4-code/output/pacman-contribution-graph.svg"
-  width="96%"
+  width="100%"
   alt="Pac-Man Contribution Graph"
 />
 
-<br/><br/>
+</div>
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
-
-<!-- =========================
-     CONNECT
-========================= -->
-
-# Connect
+## Connect
 
 <div align="center">
 
 <a href="https://www.facebook.com/keith.ciceron">
-<img
-  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  alt="Facebook"
-/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/mon.czii">
-<img
-  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
+&nbsp;
 <a href="https://www.tiktok.com/@keith_ciceron">
-<img
-  src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white"
-  alt="TikTok"
-/>
+  <img src="https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/keith-ciceron">
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<br><br>
+
+Thanks for visiting.
+
+<sub>Designed & built by Keith Ciceron</sub>
 
 </div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0f172a">
-
-<br/>
-
-<font color="#ffffff">
-
-**Thanks for visiting.**
-
-</font>
-
-<br/>
-
-<sub>
-<font color="#94a3b8">
-Designed & built by Keith Ciceron
-</font>
-</sub>
-
-<br/><br/>
-
-</td>
-</tr>
-</table>
