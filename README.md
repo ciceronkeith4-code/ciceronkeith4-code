@@ -218,22 +218,27 @@ Web-based library system with authentication, book loans, and librarian manageme
 
 ## GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/ciceronkeith4-code">
-    <img
-      src="./stats.svg"
-      height="180"
-      alt="Keith Ciceron's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/ciceronkeith4-code">
-    <img
-      src="./top-langs.svg"
-      height="180"
-      alt="Keith Ciceron's Top Languages"
-    />
-  </a>
-</p>
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/ciceronkeith4-code">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="Keith Ciceron's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/ciceronkeith4-code">
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Keith Ciceron's Top Languages"
+  />
+</a>
+
+</div>
 
 ---
 
