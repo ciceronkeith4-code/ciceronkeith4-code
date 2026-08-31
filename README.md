@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Keith Czimonne Anderson Ciceron 👋</h1>
-<h3 align="center">Junior Full Stack Developer | BSIT @ San Sebastian College–Recoletos Manila</h3>
+<h3 align="center">Software Developer | BSIT @San Sebastian College–Recoletos Manila</h3>
 
 <p align="center">
   Building clean, scalable web applications — from intuitive UIs to reliable backend APIs and database architectures.
