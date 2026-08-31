@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="140" viewBox="0 0 840 140" role="img" aria-label="Contribution grid snake">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <!-- grid of contribution squares (21 cols x 5 rows = 105) -->
+  <g id="grid">
+    <!-- generate 21 columns, 5 rows, 12px gap, 12px squares with 4px margin -->
+    <!-- positioned with small margins -->
+  </g>
+  <!-- snake path -->
+  <path d="M12 12 H240 V60 H108 V108 H396 V36 H588 V108 H756" fill="none" stroke="#16a34a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- squares filled to resemble contributions -->
+  <g fill="#16a34a">
+    <!-- select some squares along the path -->
+    <rect x="12" y="12" width="12" height="12" rx="2"/>
+    <rect x="48" y="12" width="12" height="12" rx="2"/>
+    <rect x="84" y="12" width="12" height="12" rx="2"/>
+    <rect x="120" y="12" width="12" height="12" rx="2"/>
+    <rect x="228" y="12" width="12" height="12" rx="2"/>
+    <rect x="228" y="48" width="12" height="12" rx="2"/>
+    <rect x="192" y="48" width="12" height="12" rx="2"/>
+    <rect x="156" y="48" width="12" height="12" rx="2"/>
+    <rect x="120" y="48" width="12" height="12" rx="2"/>
+    <rect x="108" y="84" width="12" height="12" rx="2"/>
+    <rect x="144" y="84" width="12" height="12" rx="2"/>
+    <rect x="180" y="84" width="12" height="12" rx="2"/>
+    <rect x="216" y="84" width="12" height="12" rx="2"/>
+    <rect x="252" y="84" width="12" height="12" rx="2"/>
+    <rect x="288" y="48" width="12" height="12" rx="2"/>
+    <rect x="324" y="12" width="12" height="12" rx="2"/>
+    <rect x="360" y="48" width="12" height="12" rx="2"/>
+    <rect x="396" y="84" width="12" height="12" rx="2"/>
+    <rect x="432" y="36" width="12" height="12" rx="2"/>
+    <rect x="468" y="12" width="12" height="12" rx="2"/>
+    <rect x="504" y="12" width="12" height="12" rx="2"/>
+    <rect x="540" y="12" width="12" height="12" rx="2"/>
+    <rect x="576" y="12" width="12" height="12" rx="2"/>
+    <rect x="612" y="48" width="12" height="12" rx="2"/>
+    <rect x="648" y="84" width="12" height="12" rx="2"/>
+    <rect x="684" y="84" width="12" height="12" rx="2"/>
+    <rect x="720" y="84" width="12" height="12" rx="2"/>
+    <rect x="756" y="84" width="12" height="12" rx="2"/>
+  </g>
+</svg>
