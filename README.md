@@ -214,16 +214,18 @@ School library portal with authentication, active book-loan checkouts, and libra
 
 <br/>
 
+<br/>
+
 ## GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&theme=transparent&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&langs_count=8&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&theme=transparent&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -233,7 +235,7 @@ School library portal with authentication, active book-loan checkouts, and libra
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ciceronkeith4-code&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=ciceronkeith4-code&theme=transparent&hide_border=true"
     height="180"
     alt="GitHub Contribution Streak"
   />
@@ -243,13 +245,11 @@ School library portal with authentication, active book-loan checkouts, and libra
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code&theme=github-compact&hide_border=true"
     width="95%"
     alt="GitHub Activity Graph"
   />
 </p>
-
-<br/>
 
 ## Contribution Snake
 
