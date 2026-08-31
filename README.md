@@ -4,26 +4,14 @@ KEITH CICERON
 
 Software Developer · System Builder · UI/UX Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase;Plan+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Supabase;Turning+ideas+into+working+products" alt="Typing introduction" />
 
 <br>
 
-<a href="https://keithciceron.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=for-the-badge&labelColor=111827&color=61DAFB" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/keith-ciceron">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-111827?style=for-the-badge&labelColor=111827&color=61DAFB" alt="LinkedIn" />
-</a>
-<a href="https://github.com/keithciceron">
-  <img src="https://img.shields.io/badge/⌘_GITHUB-111827?style=for-the-badge&labelColor=111827&color=61DAFB" alt="GitHub" />
-</a>
-<a href="mailto:ciceronkeith4@gmail.com">
-  <img src="https://img.shields.io/badge/✉_EMAIL-111827?style=for-the-badge&labelColor=111827&color=61DAFB" alt="Email" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1E293B,100:61DAFB&height=120&section=header&text=&fontSize=1" width="100%" alt="decorative banner" />
+<a href="https://keithciceron.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=for-the-badge&color=61DAFB" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/keith-ciceron"><img src="https://img.shields.io/badge/💼_LINKEDIN-111827?style=for-the-badge&color=61DAFB" alt="LinkedIn" /></a>
+<a href="https://github.com/keithciceron"><img src="https://img.shields.io/badge/⌘_GITHUB-111827?style=for-the-badge&color=61DAFB" alt="GitHub" /></a>
+<a href="mailto:ciceronkeith4@gmail.com"><img src="https://img.shields.io/badge/✉_EMAIL-111827?style=for-the-badge&color=61DAFB" alt="Email" /></a>
 
 </div>
 
@@ -33,33 +21,18 @@ I'm a software developer based in the Philippines who enjoys turning real-world 
 
 I work across the stack — from responsive interfaces and UI/UX prototypes to backend APIs, authentication, databases, and deployment.
 
-My approach: understand the problem → design the experience → build the system → ship it → improve it.
+I like building software that is useful first, polished second, and complicated only when it needs to be.
 
-⚡ What I Care About
+⚡ What I Build
 
-🧩 Product Thinking
+🖥️ Web Applications
+Modern, responsive interfaces designed around real users and real workflows.
 
-⚙️ Engineering
+🧠 Digital Systems
+Connected frontend, backend, APIs, authentication, databases, and business logic.
 
-🎨 Experience
-
-Solving real problems
-
-Clean architecture
-
-Intuitive interfaces
-
-Practical features
-
-Reliable integrations
-
-Responsive design
-
-Useful systems
-
-Performance
-
-Consistent UX
+🎨 UI / UX
+Clean interfaces, practical prototypes, and interactions that make systems easier to use.
 
 🛠️ Tech Stack
 
@@ -67,18 +40,18 @@ Consistent UX
 
 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="HTML CSS JavaScript TypeScript React Next.js Tailwind CSS Vite" />
+
+<br><br>
 
 Backend · Database · Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,supabase,git,github,vercel,figma" alt="Backend database and tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql,supabase,git,github,vercel,figma" alt="Node.js PHP MySQL Supabase Git GitHub Vercel Figma" />
 
 </div>
 
-<br>
-
 <details>
-<summary><b>View my development skills</b></summary>
+<summary><b>View development skills</b></summary>
 
 <br>
 
@@ -118,144 +91,72 @@ Figma Prototyping
 
 🚀 Featured Projects
 
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+01 · Cicerra Realty Services
 
 <img src="https://keithciceron.vercel.app/images/projects/cicerra-1.png" width="100%" alt="Cicerra Realty Services" />
-
-🏠 Cicerra Realty Services
 
 A real estate listing and services platform with modern property discovery, detailed listing views, and a seamless contact system.
 
 Next.js · React · TypeScript
 
 <a href="https://cicerra-realty-services.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="View Cicerra Realty Services" />
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="Cicerra Realty Services live demo" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+02 · SSCRMNL IT Department
 
 <img src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png" width="100%" alt="SSCRMNL IT Department" />
-
-💻 SSCRMNL IT Department
 
 A student-led computing community website supporting technical learning, leadership, and professional connection.
 
 React · Vite · Supabase
 
 <a href="https://jpcs-sscrmnl.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="View SSCRMNL IT Department" />
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="SSCRMNL IT Department live demo" />
 </a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+03 · NCLEX Amplified — Intern Portal
 
 <img src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png" width="100%" alt="NCLEX Amplified Intern Portal" />
-
-📚 NCLEX Amplified — Intern Portal
 
 An intern management and review portal providing learning tools, resources, and administrative monitoring.
 
 React · TypeScript · Node.js
 
 <a href="https://interns.nclexamplifiedreviewcenter.com/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="View NCLEX Amplified" />
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="NCLEX Amplified live demo" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+04 · ONE CAINTA
 
 <img src="https://keithciceron.vercel.app/images/projects/onecainta.png" width="100%" alt="ONE CAINTA" />
-
-🏛️ ONE CAINTA
 
 A unified municipal portal for Cainta, Rizal, providing digital community services, announcements, and government resources.
 
 PHP · JavaScript · MySQL
 
 <a href="https://onecainta.com/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="View ONE CAINTA" />
+<img src="https://img.shields.io/badge/↗_LIVE_DEMO-111827?style=for-the-badge&logo=vercel&logoColor=61DAFB" alt="ONE CAINTA live demo" />
 </a>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <details>
 <summary><b>🔎 Explore more projects</b></summary>
 
 <br>
 
-Project
-
-What it does
-
-Stack
-
 SSCRecoletos Connect
 
-Outcome-based monitoring and evaluation portal with forms, rating metrics, and visual dashboards.
+Outcome-based monitoring and evaluation portal for outreach satisfaction surveys, with custom forms, rating metrics, and visual dashboards.
 
 React · Supabase · Shadcn UI
 
 Web-Based Library Management System
 
-School library portal with authentication, book-loan checkout, and management tables.
+School library portal with authentication, book-loan checkouts, and management tables for students and librarians.
 
 PHP · Java · MySQL
 
 </details>
-
-🌟 What I Build
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" width="33%">
-
-🖥️
-
-Web Applications
-
-Modern, responsive interfaces built around real users and real workflows.
-
-</td>
-<td align="center" width="33%">
-
-🧠
-
-Digital Systems
-
-Connected frontend, backend, APIs, authentication, and databases.
-
-</td>
-<td align="center" width="33%">
-
-🎨
-
-UI / UX
-
-Clean interfaces, thoughtful interactions, and practical prototypes.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products.;From+interface+to+database.;Build+%E2%80%A2+Integrate+%E2%80%A2+Launch+%E2%80%A2+Improve" alt="What I build animation" />
-
-</div>
 
 🎯 Current Focus
 
@@ -268,8 +169,8 @@ Clean interfaces, thoughtful interactions, and practical prototypes.
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-111827?style=for-the-badge&logoColor=white" alt="System Design" />
-<img src="https://img.shields.io/badge/WEB_PERFORMANCE-111827?style=for-the-badge&logoColor=white" alt="Web Performance" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-111827?style=for-the-badge" alt="System Design" />
+<img src="https://img.shields.io/badge/WEB_PERFORMANCE-111827?style=for-the-badge" alt="Web Performance" />
 
 </div>
 
@@ -277,9 +178,7 @@ Clean interfaces, thoughtful interactions, and practical prototypes.
 
 <div align="center">
 
-"Make it useful. Make it clear. Make it worth using."
-
-<br>
+Make it useful. Make it clear. Make it worth using.
 
 Build with purpose. · Design with intention. · Ship with confidence.
 
@@ -287,20 +186,14 @@ Build with purpose. · Design with intention. · Ship with confidence.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1E293B,100:111827&height=150&section=footer&text=LET'S%20CONNECT&fontSize=28&fontColor=FFFFFF&animation=fadeIn&desc=Portfolio%20%C2%B7%20LinkedIn%20%C2%B7%20GitHub%20%C2%B7%20Email&descAlignY=72&descSize=14&descColor=61DAFB" width="100%" alt="Let's connect banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:1E293B,100:111827&height=140&section=footer&text=LET'S%20CONNECT&fontSize=28&fontColor=FFFFFF&animation=fadeIn&desc=Portfolio%20%C2%B7%20LinkedIn%20%C2%B7%20GitHub%20%C2%B7%20Email&descAlignY=72&descSize=14&descColor=61DAFB" width="100%" alt="Let's connect" />
 
-<a href="https://keithciceron.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-111827?style=for-the-badge&color=61DAFB" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/keith-ciceron">
-  <img src="https://img.shields.io/badge/💼_LINKEDIN-111827?style=for-the-badge&color=61DAFB" alt="LinkedIn" />
-</a>
-<a href="https://github.com/keithciceron">
-  <img src="https://img.shields.io/badge/⌘_GITHUB-111827?style=for-the-badge&color=61DAFB" alt="GitHub" />
-</a>
-<a href="mailto:ciceronkeith4@gmail.com">
-  <img src="https://img.shields.io/badge/✉_EMAIL-111827?style=for-the-badge&color=61DAFB" alt="Email" />
-</a>
+<br>
+
+<a href="https://keithciceron.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&color=61DAFB" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/keith-ciceron"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&color=61DAFB" alt="LinkedIn" /></a>
+<a href="https://github.com/keithciceron"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&color=61DAFB" alt="GitHub" /></a>
+<a href="mailto:ciceronkeith4@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&color=61DAFB" alt="Email" /></a>
 
 <br><br>
 
