@@ -211,15 +211,11 @@ Web-based library portal featuring authentication, book-loan tracking, and libra
 
 <div align="center">
 
-<p align="center">
-  <a href="https://github.com/ciceronkeith4-code">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code&theme=github-compact&hide_border=true"
-      width="96%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ciceronkeith4-code"
+  width="96%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
