@@ -24,7 +24,7 @@ jobs:
           games: pacman
 
       - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           build_dir: dist
           target_branch: output
