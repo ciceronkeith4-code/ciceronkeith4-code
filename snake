@@ -3,21 +3,23 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"   # runs once a day
-  workflow_dispatch: {}
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Generate the snake game from GitHub contributions
+      - name: Generate the snake game from the GitHub contribution grid
         uses: Platane/snk@v3
         with:
-          github_user_name: ciceronkeith4-code
+          # uses whichever account owns this repo — no need to hardcode a username
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
