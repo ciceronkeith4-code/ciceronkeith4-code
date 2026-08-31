@@ -1,237 +1,90 @@
-Yes. Here’s a clean, unique GitHub Profile README you can paste directly into your README.md. I kept it developer-focused rather than making it look like a traditional resume.
+<div align="center">
 
-# Hey, I'm Keith Ciceron 👋
+# Keith Ciceron
 
-### Software Developer · Full-Stack · UI/UX · QA
+**Junior Full Stack Developer** · Philippines 🇵🇭
 
-I build **clean interfaces, practical systems, and web applications** that solve real problems.
+Building clean interfaces and useful systems.
 
-> Design → Build → Test → Improve
+[Portfolio](https://keithciceron.vercel.app) · [LinkedIn](https://www.linkedin.com/in/keith-ciceron) · [Email](mailto:ciceronkeith4@gmail.com)
 
-[🌐 Portfolio](https://keithciceron.vercel.app) · [💼 LinkedIn](YOUR_LINKEDIN_URL) · [📧 Email](mailto:ciceronkeith4@gmail.com)
+</div>
 
----
+<br>
 
-## `whoami`
+> [!NOTE]
+> BSIT graduate from San Sebastian College–Recoletos Manila, focused on full stack development, UI/UX, and database systems. Currently building the intern portal for NCLEX Amplified Review Center.
 
-```text
-Keith Ciceron
-├── Software Developer
-├── Full-Stack Development
-├── UI/UX
-├── System Design
-└── Software Testing
+`2× BSIT Program President` · `Dean's Lister` · `OAR Scholar` · `AI-assisted developer`
 
-I'm interested in building applications from the interface all the way to the database, while keeping the experience simple, responsive, and maintainable.
+<br>
 
-I enjoy turning ideas into working systems — especially projects involving web applications, management systems, dashboards, and user-focused interfaces.
+## 🟪 Stack
 
+<table width="100%">
+<tr><td>
 
----
+🔵 **Frontend** — HTML · CSS · JavaScript · TypeScript · React · Tailwind
+🟣 **Backend** — Node.js · Supabase · Firebase
+🟢 **Database** — MySQL · PostgreSQL
+⚪ **Tools** — Git · GitHub · Vercel · Figma · VS Code
 
-⚡ Tech Stack
+</td></tr>
+</table>
 
-Frontend
+<br>
 
-      
+## 🔵 Selected Work
 
-Backend & Database
+<table width="100%">
+<tr><td>
 
-    
-
-Tools & Platforms
-
-   
-
+**[NCLEX Amplified — Intern Portal](https://interns.nclexamplifiedreviewcenter.com)** 🟣
+Intern management platform for the NCLEX Amplified Review Center.
 
 ---
 
-🚀 Selected Work
-
-🧠 NCLEX Amplified Review Center
-
-Intern Portal
-
-React TypeScript Tailwind CSS Node.js Vercel
-
-An intern-focused platform designed to organize learning resources, intern tools, and administrative workflows.
-
+**[SSCRMNL — IT Department Portal](https://jpcs-sscrmnl.vercel.app)** 🔵
+Digital portal for the IT department of San Sebastian College, built with React.
 
 ---
 
-🏛️ ONE CAINTA APP
-
-PHP JavaScript HTML CSS MySQL PWA
-
-A unified web application focused on delivering digital community services and accessible public information.
-
+**[Cicerra Realty](https://cicerra-realty-services.vercel.app)** 🔴
+Real-estate platform for showcasing property listings and services.
 
 ---
 
-💻 SSCRMNL IT Department
+**[ONE CAINTA](https://onecainta.com)** 🟡
+Community-focused digital platform built with PHP.
 
-React Vite Tailwind CSS Supabase Vercel
+</td></tr>
+</table>
 
-A digital platform for the IT community focused on technical learning, student engagement, leadership, and professional development.
+<div align="right">
 
+[View full portfolio →](https://keithciceron.vercel.app)
 
----
+</div>
 
-🏠 Cicerra Realty Services
+<br>
 
-Next.js React TypeScript Tailwind CSS Vercel
+> [!TIP]
+> Open to internship and junior developer opportunities — feel free to reach out.
 
-A modern real-estate platform designed for property discovery, listing presentation, and client inquiries.
+<br>
 
+## 🟢 Connect
 
----
+<table width="100%">
+<tr><td>
 
-📊 SSCRecoletos Connect
+[LinkedIn](https://www.linkedin.com/in/keith-ciceron) · [Facebook](https://www.facebook.com/keith.ciceron) · [Instagram](https://www.instagram.com/mon.czii) · [TikTok](https://www.tiktok.com/@keith_ciceron) · [Email](mailto:ciceronkeith4@gmail.com)
 
-React TypeScript Tailwind CSS Shadcn UI Supabase
+</td></tr>
+</table>
 
-A monitoring and evaluation platform for outreach activities, including feedback collection, ratings, response tracking, and dashboards.
+<br>
 
-
----
-
-📚 Web-Based Library Management System
-
-Java PHP MySQL Node.js Tailwind CSS
-
-A school library management system designed to improve book borrowing, return tracking, availability monitoring, and user management.
-
-
----
-
-🛠️ What I Build
-
-Web Applications       ████████████████████
-Management Systems     ██████████████████░░
-Responsive UI          ████████████████████
-Database Systems       ████████████████░░░░
-UI/UX Prototypes       █████████████████░░░
-Software Testing       ███████████████░░░░░
-
-Web Applications
-
-Management Systems
-
-Database-Driven Systems
-
-Responsive Interfaces
-
-UI/UX Prototypes
-
-Dashboards
-
-Software Testing & QA
-
-
-
----
-
-🧪 Development Mindset
-
-I like to approach projects through a simple cycle:
-
-┌──────────┐
-       │  DESIGN  │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │  BUILD   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │   TEST   │
-       └────┬─────┘
-            ↓
-       ┌──────────┐
-       │ IMPROVE  │
-       └────┬─────┘
-            │
-            └──────────────→ Repeat
-
-Good software isn't only about making something work.
-
-It's about making it useful, understandable, reliable, and easy to improve.
-
-
----
-
-📈 Currently Learning
-
-+ Full-Stack Development
-+ System Architecture
-+ Database Design
-+ Modern React / Next.js
-+ UI/UX
-+ Software Testing
-+ Better Development Practices
-
-
----
-
-💼 Experience
-
-Dev Assistant — Opoli Technology Inc.
-September 2022 – December 2025
-
-Worked with software testing and quality assurance processes, including:
-
-Manual testing
-
-Functional testing
-
-Usability testing
-
-Bug identification
-
-Clear bug reporting
-
-Supporting QA workflows
-
-
-
----
-
-🌱 Building > Talking
-
-Some projects start as school requirements.
-
-Some become real systems.
-
-I use every project as an opportunity to learn something new, experiment with better approaches, and build something better than the last.
-
-
----
-
-📫 Let's Connect
-
-If you're interested in development, collaboration, or just want to talk about building something:
-
-Portfolio:
-🌐 https://keithciceron.vercel.app
-
-Email:
-📧 ciceronkeith4@gmail.com
-
-LinkedIn:
-💼 Connect with me
-
-
----
-
-<p align="center">
-  <sub>Designed & built by Keith Ciceron</sub>
-</p><p align="center">
-  <a href="https://keithciceron.vercel.app">
-    <strong>keithciceron.vercel.app →</strong>
-  </a>
-</p>
-```One thing I'd change before you publish
-
-YOUR_LINKEDIN_URL
-
-
+<div align="center">
+<sub>Thanks for stopping by.</sub>
+</div>
