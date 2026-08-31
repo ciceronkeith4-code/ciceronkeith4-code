@@ -53,6 +53,7 @@ My work focuses on creating applications that are:
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 🎨
@@ -92,10 +93,14 @@ Relational data modeling and reliable application data systems.
 Wireframes, prototypes, and user-centered interfaces.
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
+---
+
 ## Technology
 
 <div align="center">
@@ -124,6 +129,7 @@ Wireframes, prototypes, and user-centered interfaces.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png" width="100%" alt="NCLEX Amplified Review Center"/>
@@ -159,9 +165,11 @@ Unified municipal portal and public service application for Cainta, Rizal.
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png" width="100%" alt="SSCRMNL IT Department"/>
@@ -197,9 +205,11 @@ Real estate platform for property discovery, detailed listings, and client inqui
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/connect-dashboard.png" width="100%" alt="SSCRecoletos Connect"/>
@@ -231,6 +241,7 @@ Web-based library system with authentication, book loans, and librarian manageme
 <sub>School Project</sub>
 
 </td>
+
 </tr>
 </table>
 
