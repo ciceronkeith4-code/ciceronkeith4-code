@@ -85,121 +85,115 @@ My work focuses on creating applications that are:
 # Selected Work
 
 <table>
-  <tr>
+<tr>
+<td width="50%" valign="top">
 
-    <td width="50%" valign="top">
+<img src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png" width="100%" alt="NCLEX Amplified Review Center"/>
 
-      <img src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png" width="100%" alt="NCLEX Amplified Review Center"/>
+### NCLEX Amplified
 
-      ### NCLEX Amplified
+Intern management and review center portal with learning resources, intern tools, and administrative monitoring.
 
-      Intern management and review center portal with learning resources, intern tools, and administrative monitoring.
+`React` `TypeScript` `Tailwind` `Node.js`
 
-      `React` `TypeScript` `Tailwind` `Node.js`
+<br/>
 
-      <br/>
+<a href="https://interns.nclexamplifiedreviewcenter.com">
+<strong>View Project →</strong>
+</a>
 
-      <a href="https://interns.nclexamplifiedreviewcenter.com">
-        <strong>View Project →</strong>
-      </a>
+</td>
 
-    </td>
+<td width="50%" valign="top">
 
-    <td width="50%" valign="top">
+<img src="https://keithciceron.vercel.app/images/projects/onecainta.png" width="100%" alt="ONE CAINTA APP"/>
 
-      <img src="https://keithciceron.vercel.app/images/projects/onecainta.png" width="100%" alt="ONE CAINTA APP"/>
+### ONE CAINTA
 
-      ### ONE CAINTA
+Unified municipal portal and public service application for Cainta, Rizal.
 
-      Unified municipal portal and public service application for Cainta, Rizal.
+`PHP` `JavaScript` `MySQL` `PWA`
 
-      `PHP` `JavaScript` `MySQL` `PWA`
+<br/>
 
-      <br/>
+<a href="https://onecainta.com">
+<strong>View Project →</strong>
+</a>
 
-      <a href="https://onecainta.com">
-        <strong>View Project →</strong>
-      </a>
+</td>
+</tr>
 
-    </td>
+<tr>
+<td width="50%" valign="top">
 
-  </tr>
+<img src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png" width="100%" alt="SSCRMNL IT Department"/>
 
-  <tr>
+### SSCRMNL IT Department
 
-    <td width="50%" valign="top">
+Student-led computing community platform for technical learning, leadership, and professional connection.
 
-      <img src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png" width="100%" alt="SSCRMNL IT Department"/>
+`React` `Vite` `Tailwind` `Supabase`
 
-      ### SSCRMNL IT Department
+<br/>
 
-      Student-led computing community platform for technical learning, leadership, and professional connection.
+<a href="https://jpcs-sscrmnl.vercel.app/">
+<strong>View Project →</strong>
+</a>
 
-      `React` `Vite` `Tailwind` `Supabase`
+</td>
 
-      <br/>
+<td width="50%" valign="top">
 
-      <a href="https://jpcs-sscrmnl.vercel.app/">
-        <strong>View Project →</strong>
-      </a>
+<img src="https://keithciceron.vercel.app/images/projects/cicerra-1.png" width="100%" alt="Cicerra Realty Services"/>
 
-    </td>
+### Cicerra Realty
 
-    <td width="50%" valign="top">
+Real estate platform for property discovery, detailed listings, and client inquiries.
 
-      <img src="https://keithciceron.vercel.app/images/projects/cicerra-1.png" width="100%" alt="Cicerra Realty Services"/>
+`Next.js` `React` `TypeScript` `Tailwind`
 
-      ### Cicerra Realty
+<br/>
 
-      Real estate platform for property discovery, detailed listings, and client inquiries.
+<a href="https://cicerra-realty-services.vercel.app/">
+<strong>View Project →</strong>
+</a>
 
-      `Next.js` `React` `TypeScript` `Tailwind`
+</td>
+</tr>
 
-      <br/>
+<tr>
+<td width="50%" valign="top">
 
-      <a href="https://cicerra-realty-services.vercel.app/">
-        <strong>View Project →</strong>
-      </a>
+<img src="https://keithciceron.vercel.app/images/projects/connect-dashboard.png" width="100%" alt="SSCRecoletos Connect"/>
 
-    </td>
+### SSCRecoletos Connect
 
-  </tr>
+Monitoring and evaluation platform with custom surveys, forms, and visual dashboards.
 
-  <tr>
+`React` `TypeScript` `Shadcn UI` `Supabase`
 
-    <td width="50%" valign="top">
+<br/>
 
-      <img src="https://keithciceron.vercel.app/images/projects/connect-dashboard.png" width="100%" alt="SSCRecoletos Connect"/>
+<sub>School Project</sub>
 
-      ### SSCRecoletos Connect
+</td>
 
-      Monitoring and evaluation platform with custom surveys, forms, and visual dashboards.
+<td width="50%" valign="top">
 
-      `React` `TypeScript` `Shadcn UI` `Supabase`
+<img src="https://keithciceron.vercel.app/images/projects/library-login.png" width="100%" alt="Library Management System"/>
 
-      <br/>
+### Library Management System
 
-      <sub>School Project</sub>
+Web-based library system with authentication, book loans, and librarian management.
 
-    </td>
+`Java` `PHP` `MySQL` `Node.js`
 
-    <td width="50%" valign="top">
+<br/>
 
-      <img src="https://keithciceron.vercel.app/images/projects/library-login.png" width="100%" alt="Library Management System"/>
+<sub>School Project</sub>
 
-      ### Library Management System
-
-      Web-based library system with authentication, book loans, and librarian management.
-
-      `Java` `PHP` `MySQL` `Node.js`
-
-      <br/>
-
-      <sub>School Project</sub>
-
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -207,7 +201,7 @@ My work focuses on creating applications that are:
 <div align="center">
 
 <a href="https://keithciceron.vercel.app">
-  <strong>Explore the full portfolio →</strong>
+<strong>Explore the full portfolio →</strong>
 </a>
 
 </div>
