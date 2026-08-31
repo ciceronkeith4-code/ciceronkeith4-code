@@ -1,7 +1,4 @@
-Read URL: https://keithciceron.vercel.app/
-Viewed content.md:1-11
 
-```markdown
 <div align="center">
 
 <!-- EDITORIAL BRAND HEADER -->
@@ -179,4 +176,3 @@ const keith: Developer = {
 <sub>📍 Manila, Philippines · Keith Ciceron · Built with purpose and clean code</sub>
 
 </div>
-```
