@@ -1,24 +1,35 @@
 <div align="center">
 
-<img src="https://keithciceron.vercel.app/logo-kc.png" width="76" alt="Keith Ciceron Logo"/>
+<img src="https://keithciceron.vercel.app/logo-kc.png" width="82" alt="Keith Ciceron"/>
 
 # Keith Ciceron
 
-**Software Developer · Full-Stack Developer · UI/UX Enthusiast**
+### Software Developer
 
-Building modern web applications with clean interfaces, reliable systems, and practical user experiences.
+**Full-Stack Development · System Design · UI/UX**
+
+Building modern web applications with thoughtful interfaces,
+reliable systems, and practical user experiences.
 
 <br/>
 
 <a href="https://keithciceron.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/keith-ciceron">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ciceronkeith4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`React` · `Next.js` · `TypeScript` · `Node.js` · `PHP` · `Java` · `MySQL` · `Supabase`
 
 </div>
 
@@ -26,70 +37,71 @@ Building modern web applications with clean interfaces, reliable systems, and pr
 
 ## About
 
-I'm a software developer from the Philippines focused on building **end-to-end digital experiences** — from responsive interfaces and UI/UX prototypes to backend APIs, databases, and deployment.
+I'm a software developer from the Philippines who enjoys building
+**complete digital products** — from the interface users interact with
+to the backend systems powering them.
 
-I enjoy turning ideas into applications that are **clean, functional, scalable, and easy to use.**
+My work focuses on creating applications that are:
 
-**Currently focused on**
+**Clean** · **Functional** · **Scalable** · **Easy to use**
 
-`Full-Stack Development` · `System Design` · `UI/UX` · `Web Applications`
+<br/>
+
+### What I do
+
+| | |
+|---|---|
+| **Frontend** | Modern, responsive interfaces and component systems |
+| **Backend** | APIs, authentication, business logic, and system architecture |
+| **Database** | Relational data modeling and application data systems |
+| **UI/UX** | Wireframes, prototypes, and user-centered interfaces |
 
 ---
 
-## Tech Stack
+## Technology
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,tailwind,html,css" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite,tailwind,html,css" alt="Frontend"/>
 
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,php,java,mysql,supabase" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,mysql,supabase" alt="Backend and Database"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/><br/>
 
-### Tools & Deployment
+### Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,photoshop" alt="Tools and Design"/>
 
-</td>
-<td width="50%" valign="top">
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design tools"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Featured Projects
+# Selected Work
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/nclex-amplified.png" width="100%" alt="NCLEX Amplified Review Center"/>
 
-### NCLEX Amplified Review Center
+### NCLEX Amplified
 
 Intern management and review center portal with learning resources, intern tools, and administrative monitoring.
 
-`React` `TypeScript` `Tailwind CSS` `Node.js` `Vercel`
+`React` `TypeScript` `Tailwind` `Node.js`
 
-**[→ Live Demo](https://interns.nclexamplifiedreviewcenter.com)**
+<br/>
+
+<a href="https://interns.nclexamplifiedreviewcenter.com">
+<strong>View Project →</strong>
+</a>
 
 </td>
 
@@ -97,29 +109,39 @@ Intern management and review center portal with learning resources, intern tools
 
 <img src="https://keithciceron.vercel.app/images/projects/onecainta.png" width="100%" alt="ONE CAINTA APP"/>
 
-### ONE CAINTA APP
+### ONE CAINTA
 
-Unified municipal portal and public service application for Cainta, Rizal featuring community services and announcements.
+Unified municipal portal and public service application for Cainta, Rizal.
 
 `PHP` `JavaScript` `MySQL` `PWA`
 
-**[→ Live Demo](https://onecainta.com)**
+<br/>
+
+<a href="https://onecainta.com">
+<strong>View Project →</strong>
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/sscrmnl-itdept-1.png" width="100%" alt="SSCRMNL IT Department"/>
 
 ### SSCRMNL IT Department
 
-Student-led computing community platform focused on technical learning, leadership, and professional connection.
+Student-led computing community platform for technical learning, leadership, and professional connection.
 
-`React` `Vite` `Tailwind CSS` `Supabase`
+`React` `Vite` `Tailwind` `Supabase`
 
-**[→ Live Demo](https://jpcs-sscrmnl.vercel.app/)**
+<br/>
+
+<a href="https://jpcs-sscrmnl.vercel.app/">
+<strong>View Project →</strong>
+</a>
 
 </td>
 
@@ -127,27 +149,35 @@ Student-led computing community platform focused on technical learning, leadersh
 
 <img src="https://keithciceron.vercel.app/images/projects/cicerra-1.png" width="100%" alt="Cicerra Realty Services"/>
 
-### Cicerra Realty Services
+### Cicerra Realty
 
-Real estate platform designed for property discovery, detailed listings, and streamlined client inquiries.
+Real estate platform for property discovery, detailed listings, and client inquiries.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Tailwind`
 
-**[→ Live Demo](https://cicerra-realty-services.vercel.app/)**
+<br/>
+
+<a href="https://cicerra-realty-services.vercel.app/">
+<strong>View Project →</strong>
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 <img src="https://keithciceron.vercel.app/images/projects/connect-dashboard.png" width="100%" alt="SSCRecoletos Connect"/>
 
 ### SSCRecoletos Connect
 
-Outcome-based monitoring and evaluation platform with custom surveys, forms, and visual dashboards.
+Monitoring and evaluation platform with custom surveys, forms, and visual dashboards.
 
-`React` `TypeScript` `Tailwind CSS` `Shadcn UI` `Supabase`
+`React` `TypeScript` `Shadcn UI` `Supabase`
+
+<br/>
 
 <sub>School Project</sub>
 
@@ -155,68 +185,90 @@ Outcome-based monitoring and evaluation platform with custom surveys, forms, and
 
 <td width="50%" valign="top">
 
-<img src="https://keithciceron.vercel.app/images/projects/library-login.png" width="100%" alt="Web-Based Library Management System"/>
+<img src="https://keithciceron.vercel.app/images/projects/library-login.png" width="100%" alt="Library Management System"/>
 
 ### Library Management System
 
-Web-based library portal featuring authentication, book-loan tracking, and librarian management tools.
+Web-based library system with authentication, book loans, and librarian management.
 
-`Java` `PHP` `MySQL` `Node.js` `Tailwind CSS`
+`Java` `PHP` `MySQL` `Node.js`
+
+<br/>
 
 <sub>School Project</sub>
 
 </td>
+
 </tr>
 </table>
+
+<br/>
 
 <div align="center">
 
 <a href="https://keithciceron.vercel.app">
-  <strong>View all projects →</strong>
+<strong>Explore the full portfolio →</strong>
 </a>
 
 </div>
 
 ---
 
-## GitHub
-
-## GitHub
-
-<p align="center">
-  <a href="https://github.com/ciceronkeith4-code">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&hide_border=true&theme=transparent"
-      height="180"
-      alt="Keith's GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/ciceronkeith4-code">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&hide_border=true&theme=transparent"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
----
-
-## Contribution Activity
-
-
-<br/>
+# GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ciceronkeith4-code/ciceronkeith4-code/output/github-contribution-grid-snake.svg" width="96%" alt="GitHub Contribution Snake"/>
+<a href="https://github.com/ciceronkeith4-code">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&hide_border=true&theme=transparent"
+height="165"
+alt="GitHub Stats"
+/>
+
+</a>
+
+<a href="https://github.com/ciceronkeith4-code">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&hide_border=true&theme=transparent"
+height="165"
+alt="Top Languages"
+/>
+
+</a>
 
 </div>
 
 ---
 
-## Connect
+# Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/ciceronkeith4-code/ciceronkeith4-code/output/github-contribution-grid-snake.svg"
+width="96%"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/ciceronkeith4-code/ciceronkeith4-code/output/pacman-contribution-graph.svg"
+width="96%"
+alt="Pac-Man Contribution Graph"
+/>
+
+</div>
+
+---
+
+# Connect
 
 <div align="center">
 
@@ -242,7 +294,7 @@ Web-based library portal featuring authentication, book-loan tracking, and libra
 
 <div align="center">
 
-### Thanks for stopping by.
+**Thanks for visiting.**
 
 <sub>Designed & built by Keith Ciceron</sub>
 
