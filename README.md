@@ -181,29 +181,25 @@ Web-based library portal featuring authentication, book-loan tracking, and libra
 
 ## GitHub
 
-<div align="center">
+## GitHub
 
-<a href="https://github.com/ciceronkeith4-code">
+<p align="center">
+  <a href="https://github.com/ciceronkeith4-code">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&hide_border=true&theme=transparent"
+      height="180"
+      alt="Keith's GitHub Stats"
+    />
+  </a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ciceronkeith4-code&show_icons=true&hide_border=true&bg_color=00000000&title_color=111827&text_color=4B5563&icon_color=111827&rank_icon=github" alt="Keith's GitHub Stats"/>
-
-</a>
-
-<a href="https://github.com/ciceronkeith4-code">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&hide_border=true&bg_color=00000000&title_color=111827&text_color=4B5563" alt="Top Languages"/>
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ciceronkeith4-code&hide_border=true&background=00000000&stroke=E5E7EB&ring=111827&fire=111827&currStreakLabel=111827&sideLabels=4B5563&currStreakNum=111827&sideNums=111827&dates=6B7280" width="70%" alt="GitHub Contribution Streak"/>
-
-</div>
+  <a href="https://github.com/ciceronkeith4-code">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciceronkeith4-code&layout=compact&hide_border=true&theme=transparent"
+      height="180"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 ---
 
