@@ -47,17 +47,55 @@ My work focuses on creating applications that are:
 
 <br/>
 
-### What I do
+<div align="center">
 
-| | |
-|---|---|
-| **Frontend** | Modern, responsive interfaces and component systems |
-| **Backend** | APIs, authentication, business logic, and system architecture |
-| **Database** | Relational data modeling and application data systems |
-| **UI/UX** | Wireframes, prototypes, and user-centered interfaces |
+### What I Do
 
----
+<table>
+<tr>
+<td align="center" width="25%">
 
+### 🎨
+
+**Frontend**
+
+Modern, responsive interfaces and reusable component systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+APIs, authentication, business logic, and system architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Database**
+
+Relational data modeling and reliable application data systems.
+
+</td>
+
+<td align="center" width="25%">
+
+### ✦
+
+**UI/UX**
+
+Wireframes, prototypes, and user-centered interfaces.
+
+</td>
+</tr>
+</table>
+
+</div>
 ## Technology
 
 <div align="center">
