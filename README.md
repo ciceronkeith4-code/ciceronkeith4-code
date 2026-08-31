@@ -120,7 +120,7 @@ Figma Prototyping
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -215,22 +215,47 @@ PHP · Java · MySQL
 
 </details>
 
-🔄 How I Build
+🌟 What I Build
 
 <div align="center">
 
-┌──────┐    ┌────────┐    ┌───────┐    ┌───────────┐
-│ PLAN │ →  │ DESIGN │ →  │ BUILD │ →  │ INTEGRATE │
-└──────┘    └────────┘    └───────┘    └───────────┘
-                                            │
-                                            ▼
-┌─────────┐   ←   ┌────────┐   ←   ┌──────┐
-│ IMPROVE │       │ DEPLOY │       │ TEST │
-└─────────┘       └────────┘       └──────┘
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+🖥️
+
+Web Applications
+
+Modern, responsive interfaces built around real users and real workflows.
+
+</td>
+<td align="center" width="33%">
+
+🧠
+
+Digital Systems
+
+Connected frontend, backend, APIs, authentication, and databases.
+
+</td>
+<td align="center" width="33%">
+
+🎨
+
+UI / UX
+
+Clean interfaces, thoughtful interactions, and practical prototypes.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products.;From+interface+to+database.;Build+%E2%80%A2+Integrate+%E2%80%A2+Launch+%E2%80%A2+Improve" alt="What I build animation" />
 
 </div>
-
-Every project starts by understanding the problem. From there, I move through structured design, component-based development, API/database integration, testing, deployment, and continuous refinement based on real usage.
 
 🎯 Current Focus
 
@@ -252,7 +277,7 @@ Every project starts by understanding the problem. From there, I move through st
 
 <div align="center">
 
-"Don't just make it work. Make it useful, understandable, and worth using."
+"Make it useful. Make it clear. Make it worth using."
 
 <br>
 
