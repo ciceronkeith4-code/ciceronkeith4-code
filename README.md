@@ -218,8 +218,6 @@ Web-based library system with authentication, book loans, and librarian manageme
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
 
 <a href="https://github.com/ciceronkeith4-code">
