@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KEITH CICERON&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 60, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 60, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 241.68574863167487;
+        stroke-dashoffset: 239.78175308404468;
       }
     }
   
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >0</text>
+      >1</text>
     </g>
   </g>
     </svg>
